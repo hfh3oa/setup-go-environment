@@ -6,5 +6,11 @@
 * [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * [Visual Studio Code](https://azure.microsoft.com/en-us/products/visual-studio-code/)
 
+# Build and Run
+Open a new terminal ,and enter the following and execute.
+```sh
+$ go run [main.go path]
+```
+
 # License
 The source code is licensed MIT.
