@@ -7,7 +7,7 @@
 * [Visual Studio Code](https://azure.microsoft.com/en-us/products/visual-studio-code/)
 
 # Build and Run
-Open a new terminal ,and enter the following and execute.
+Open new terminal in container,and enter following and execute.
 ```sh
 $ go run [main.go path]
 ```
